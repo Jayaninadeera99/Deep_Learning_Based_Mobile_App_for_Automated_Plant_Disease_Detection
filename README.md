@@ -1,1 +1,3 @@
-# Deep_Learning_Based_Mobile_App_for_Automated_Plant_Disease_Detection
+# Deep Learning Based Mobile App for Automated Plant Disease Detection
+
+A mobile-based intelligent plant disease detection system that uses deep learning and image processing techniques to identify diseases from leaf images. The application allows users to upload or capture plant leaf images and automatically predicts the disease type, confidence score, severity level, and recommended treatments. The system supports multiple crops, including cabbage, tomato, tea, rice, and onion, using trained MobileNetV2 models integrated with a Flask backend and a mobile application interface. This project aims to provide an accessible and efficient tool for early disease diagnosis and improved crop management.
