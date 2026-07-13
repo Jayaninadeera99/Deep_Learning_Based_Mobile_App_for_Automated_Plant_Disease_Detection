@@ -26,7 +26,6 @@ trained models into a mobile application for real-time, in-field diagnosis.
 | 4 | *(e.g. Cabbage)* | MobileNetV2 (transfer learning) |
 | 5 | *(e.g. rice)* | MobileNetV2 (transfer learning) |
 
-*(Replace with your actual 5 plant species)*
 
 ## Model Architecture
 - **Base model:** MobileNetV2 (pretrained on ImageNet, used as a feature extractor via transfer learning)
