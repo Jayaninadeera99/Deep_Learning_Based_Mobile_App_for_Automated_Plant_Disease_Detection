@@ -59,5 +59,3 @@ Each plant's dataset was split as follows:
 - **Model Architecture:** MobileNetV2 (Transfer Learning)
 - **Mobile App:** *(e.g. Flutter / Android Studio / Kotlin — specify your stack)*
 - **Model Deployment:** TensorFlow Lite (.tflite)
-
-## Project Structure
