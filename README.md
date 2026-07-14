@@ -20,11 +20,11 @@ trained models into a mobile application for real-time, in-field diagnosis.
 ## Selected Plants
 | # | Plant | Model |
 |---|-------|-------|
-| 1 | *(e.g. Tomato)* | MobileNetV2 (transfer learning) |
-| 2 | *(e.g. Potato)* | MobileNetV2 (transfer learning) |
-| 3 | *(e.g. tea)* | MobileNetV2 (transfer learning) |
-| 4 | *(e.g. Cabbage)* | MobileNetV2 (transfer learning) |
-| 5 | *(e.g. rice)* | MobileNetV2 (transfer learning) |
+| 1 | *( Tomato)* | MobileNetV2 (transfer learning) |
+| 2 | *( Potato)* | MobileNetV2 (transfer learning) |
+| 3 | *( tea)* | MobileNetV2 (transfer learning) |
+| 4 | *( Cabbage)* | MobileNetV2 (transfer learning) |
+| 5 | *( rice)* | MobileNetV2 (transfer learning) |
 
 
 ## Model Architecture
@@ -56,5 +56,5 @@ Each plant's dataset was split as follows:
 ## Tech Stack
 - **Model Training:** Python, TensorFlow/Keras, Google Colab
 - **Model Architecture:** MobileNetV2 (Transfer Learning)
-- **Mobile App:** *(e.g. Flutter / Android Studio / Kotlin — specify your stack)*
+- **Mobile App:** *(e.g. Flutter / Android Studio )
 - **Model Deployment:** TensorFlow Lite (.tflite)
