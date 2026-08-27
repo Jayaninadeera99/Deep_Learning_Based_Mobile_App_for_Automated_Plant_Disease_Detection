@@ -18,7 +18,7 @@ disease sub-types) for each of the 5 selected plants, then deploys the
 trained models into a mobile application for real-time, in-field diagnosis.
 
 ## Selected Plants
-| # | Plant | Model |
+|  | Plant | Model |
 |---|-------|-------|
 | 1 | *( Tomato)* | MobileNetV2 (transfer learning) |
 | 2 | *( Potato)* | MobileNetV2 (transfer learning) |
